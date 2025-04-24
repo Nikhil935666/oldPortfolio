@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "junior Software Developer SDE ",
+    "organisation": "Winners IT",
+    "startDate": "july, 2023",
+    "endDate": "july, 2024",
+    "location": "Pune, India",
+    "experiences": [
+      "Worked on website development",
+      "Worked on SEO optimization"
+    ],
+    "imageSrc": "company/PAL2.png"
+  }
+]
